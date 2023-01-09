@@ -1,4 +1,4 @@
-__04. Applied Machine Learning 2__
+## 04. Applied Machine Learning 2
 
 
 Advanced machine learning techniques:
